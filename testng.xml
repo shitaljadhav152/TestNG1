@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+  <suite name="Amazone">
+    <test name="Test">
+    <classes>
+     <!-- <class name="first.EnterText"/>  
+       <class name="Practise.Topic1">
+      <methods>
+     <exclude name="open.*">
+     </exclude>
+      </methods>
+       </class>  
+      <class name="first.Select"/>  
+      <class name="first.Click"/>  
+       <class name="Practise.Topic2">
+        <methods>
+     <exclude name="open.*">
+     </exclude>
+      </methods>
+       </class> -->
+       <class name="first.Login"/> 
+    </classes>
+  </test>  
+</suite>
